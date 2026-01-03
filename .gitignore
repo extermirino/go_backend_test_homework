@@ -1,0 +1,7 @@
+# IntelliJ / GoLand
+.idea/
+*.iml
+
+# Go build artifacts
+/bin/
+/pkg/
